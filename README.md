@@ -1,10 +1,32 @@
 # Building your first portfolio site
-This repo is the basic instructions for building your first portfolio site!
+This repo is the basic instructions for building your first portfolio site! Using HTML and CSS, create a basic website with information about your past experience, and interests. For the first iteration (yes, first because I'll give you so spicier challenges once you're done!)
 
-## Goals
-Using HTML and CSS, create a basic HTML + CSS website with information about your past experience, and interests.
 
-## Final deliverables
-- The site will be available via a publically accessible link
-- The site will be available on your Github
-- Ths Github will have a Readme with more information about your work
+## Getting started
+1. Create a new folder on your Desktop called "portfolio-site"
+2. In the folder add a file called `index.html`
+3. Paste in [this base template](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content#creating_your_first_html_document)
+4. Hit save.
+5. Double click the file and this will open your browser. This is the foundation of your site!
+
+
+### HTML
+- Add a large heading with your name on it
+- 2-3 paragraphs about your experience (similar to a CV)
+- An unordered list of links to your different sites (Github, LinkedIn)
+- A link that when clicked creates a new email with your address populated
+- A custom icon that appears in the tab of your browser
+
+
+### CSS
+- Create a file called `styles.css`
+- Link this file from your `index.html`
+- Set a font for your name heading
+- Set a background color for the whole page
+- Set a background color that appears on links, only when they're hovered on
+- Make sure that the page is as easy to read on a phone as it is on your computer.
+
+
+
+Once this is ready, we can get on Tuple and do a code review session!
+
