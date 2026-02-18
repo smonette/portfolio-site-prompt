@@ -23,10 +23,8 @@ This repo is the basic instructions for building your first portfolio site! Usin
 - Link this file from your `index.html`
 - Set a font for your name heading
 - Set a background color for the whole page
-- Set a background color that appears on links, only when they're hovered on
-- Make sure that the page is as easy to read on a phone as it is on your computer.
+- Set a background color that appears on links, but only when you're hovering on them.
+- Do any additional styling that would make your page feel polished. For example: how could you constrain the width of text? How could you contain content so it's centered on the page?
 
 
-
-Once this is ready, we can get on Tuple and do a code review session!
-
+Once this is ready, we can get on Tuple and do a code review session! 💙
