@@ -1,5 +1,5 @@
 # Building your first portfolio site
-This repo is the basic instructions for building your first portfolio site! Using HTML and CSS, create a basic website with information about your past experience, and interests. For the first iteration (yes, first because I'll give you so spicier challenges once you're done!)
+This repo is the basic instructions for building your first portfolio site! Using HTML and CSS, create a basic website with information about your past experience, and interests. For the first iteration (Yes, _first_ because I'll give you so spicier challenges once you're done!)
 
 
 ## Getting started
