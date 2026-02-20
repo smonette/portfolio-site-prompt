@@ -30,7 +30,7 @@ I also [put together some resources](https://github.com/smonette/portfolio-site-
 - Do any additional styling that would make your page feel polished. For example: how could you constrain the width of text? How could you contain content so it's centered on the page?
 
 
-Once this is ready, we can get on Tuple and do a code review session! 💙
-
 ## Goals
 At the end of this exercise you'll have an HTML document with information about your work exerience, and a CSS file to style the page to your liking!
+
+Once this is ready, we can get on Tuple and do a code review session! 💙
