@@ -9,6 +9,8 @@ This repo is the basic instructions for building your first portfolio site! Usin
 4. Hit save.
 5. Double click the file and this will open your browser. This is the foundation of your site!
 
+I also [put together some resources](https://github.com/smonette/portfolio-site-prompt/blob/main/resources.md) that might be helpful.
+
 
 ### HTML
 - Add a large heading with your name on it
