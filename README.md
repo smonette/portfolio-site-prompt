@@ -11,7 +11,7 @@ This repo is the basic instructions for building your first portfolio site! Usin
 
 I also [put together some resources](https://github.com/smonette/portfolio-site-prompt/blob/main/resources.md) that might be helpful.
 
-
+## Checklist
 ### HTML
 - Add a large heading with your name on it
 - 2-3 paragraphs about your experience (similar to a CV)
@@ -30,3 +30,6 @@ I also [put together some resources](https://github.com/smonette/portfolio-site-
 
 
 Once this is ready, we can get on Tuple and do a code review session! 💙
+
+## Goals
+At the end of this exercise you'll have an HTML document with information about your work exerience, and a CSS file to style the page to your liking!
