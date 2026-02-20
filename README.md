@@ -18,6 +18,7 @@ I also [put together some resources](https://github.com/smonette/portfolio-site-
 - An unordered list of links to your different sites (Github, LinkedIn)
 - A link that when clicked creates a new email with your address populated
 - A custom icon that appears in the tab of your browser
+- Add metadata in the head of the file. This is you page title, and description that you're very familiar with from Ahrefs :D 
 
 
 ### CSS
